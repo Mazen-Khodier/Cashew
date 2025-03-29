@@ -1,5 +1,5 @@
 # Cashew
-Python Implementation of Dana Angluin's Algorithm from "Learning Regular Sets from Queries and Counterexamples"
+Python Implementation of Dana Angluin's Algorithm from "Learning Regular Sets from Queries and Counterexamples" Using Walnut to construct self verifying predicates
 
 ## Todo
 - customize predicate name(s)
