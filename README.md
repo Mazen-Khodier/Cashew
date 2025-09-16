@@ -10,6 +10,7 @@ Python Implementation of Dana Angluin's Algorithm from "Learning Regular Sets fr
 - optimize consistency and closed tests
 - split modules
 - Multi-layered membership approach
+- Allow different numeration systems (even in one input string)
 
 ## Membership Options
 - always instantiated predicate
