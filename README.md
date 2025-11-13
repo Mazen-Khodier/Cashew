@@ -1,5 +1,6 @@
 # Cashew
-Python Implementation of Dana Angluin's Algorithm from "Learning Regular Sets from Queries and Counterexamples" Using Walnut to construct self verifying predicates
+Short for: **C**ritical exponent through **A**ngluin's algorithm and **S**ubword complexity's **H**euristic **E**valuation using **W**alnut 
+This is Python Implementation of Dana Angluin's L* Algorithm from "Learning Regular Sets from Queries and Counterexamples" Using Walnut to construct self verifying predicates, alongside scripts for computing subword complexity and critical exponent of binary uniform morphisms
 
 ## Todo
 - Allow resuming runs
